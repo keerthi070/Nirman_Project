@@ -9,7 +9,7 @@ This project helps:
 - Ensure submissions follow a fixed structure  
 - Automate acceptance or rejection of pull requests  
 
----
+
 
 ## 🧩 Features
 - ✔ Automated merge/PR validation  
@@ -18,7 +18,7 @@ This project helps:
 - ✔ Easy-to-run scripts  
 - ✔ Organized and expandable project structure  
 
----
+
 
 ## 🛠 Tech Stack
 - **Python** (validation scripts)  
