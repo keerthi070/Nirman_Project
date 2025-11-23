@@ -1,17 +1,34 @@
-# Nirmaan Education — AI Introduction Scoring Tool
+# 📘 Nirmaan Education – Automation Project
 
-This project evaluates a student's spoken introduction (transcript text) using:
+## 🚀 Overview
+The **Nirmaan Education Automation Project** is designed to simplify and streamline the student submission process.  
+It includes auto-validation for markdown files, structured formatting checks, and Git-based workflows to maintain consistency across all submissions.
 
-- Rule-based scoring (keyword matching + word count)
-- Semantic scoring (cosine similarity or difflib fallback)
-- Weighted rubric evaluation
-- Interactive Streamlit web application
+This project helps:
+- Reduce manual review work  
+- Ensure submissions follow a fixed structure  
+- Automate acceptance or rejection of pull requests  
 
-This tool was built as part of the **Nirmaan Education AI Internship Case Study**.
+---
 
-## 🚀 How to Run Locally
+## 🧩 Features
+- ✔ Automated merge/PR validation  
+- ✔ Markdown structure checking  
+- ✔ Clear error messages for invalid submissions  
+- ✔ Easy-to-run scripts  
+- ✔ Organized and expandable project structure  
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/nirmaan-ai-intro-scoring.git
-cd nirmaan-ai-intro-scoring
+---
+
+## 🛠 Tech Stack
+- **Python** (validation scripts)  
+- **JSON** (structure rules)  
+- **Git & GitHub**  
+- **VS Code**  
+- **Markdown**  
+
+---
+
+## Output
+
+
