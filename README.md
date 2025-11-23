@@ -42,4 +42,3 @@ This project helps:
 
 ---
 
-## 📁 Folder Structure  
