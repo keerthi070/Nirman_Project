@@ -31,19 +31,14 @@ This project helps:
 
 ## 📸 Output Screenshots
 
-> 📌 **Replace the image paths with your actual uploaded image URLs**
+### 🖼️ Screenshot 1
+![Screenshot 1](https://github.com/keerthi070/Nirman_Project/blob/main/Screenshot%202025-11-23%20155912.png)
 
-### ✅ Validation Success
-![Validation Success](your-image-path/success.png)
+### 🖼️ Screenshot 2
+![Screenshot 2](https://github.com/keerthi070/Nirman_Project/blob/main/Screenshot%202025-11-23%20155937.png)
 
-### ❌ Validation Failed
-![Validation Failed](your-image-path/failure.png)
-
-### 📄 PR Auto-Check Workflow
-![PR Workflow](your-image-path/pr-workflow.png)
-
-### 🔍 Markdown Structure Check
-![Markdown Check](your-image-path/md-check.png)
+### 🖼️ Screenshot 3
+![Screenshot 3](https://github.com/keerthi070/Nirman_Project/blob/main/Screenshot%202025-11-23%20155953.png)
 
 ---
 
