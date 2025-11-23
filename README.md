@@ -29,6 +29,22 @@ This project helps:
 
 ---
 
-## Output
+## 📸 Output Screenshots
 
+> 📌 **Replace the image paths with your actual uploaded image URLs**
 
+### ✅ Validation Success
+![Validation Success](your-image-path/success.png)
+
+### ❌ Validation Failed
+![Validation Failed](your-image-path/failure.png)
+
+### 📄 PR Auto-Check Workflow
+![PR Workflow](your-image-path/pr-workflow.png)
+
+### 🔍 Markdown Structure Check
+![Markdown Check](your-image-path/md-check.png)
+
+---
+
+## 📁 Folder Structure  
