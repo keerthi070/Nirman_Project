@@ -27,7 +27,7 @@ This project helps:
 - **VS Code**  
 - **Markdown**  
 
----
+
 
 ## 📸 Output Screenshots
 
