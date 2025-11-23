@@ -1,0 +1,13 @@
+My name is Keerthi Nerella, currently pursuing my B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at BVRIT Hyderabad College of Engineering for Women.
+
+I am very passionate about open-source contributions and hackathons. I worked as an AI Intern at Swecha, where I also served as the Point of Contact (POC) for my college. I was a core member and volunteer head in organizing Devastra, a 24-hour hackathon conducted under the Association for Computing Machinery (ACM) in collaboration with G. Narayanamma Institute of Technology and Science (GNITS).
+
+In terms of achievements, I was a finalist at Hackofi conducted by Swecha, and my idea was selected as one of the top sustainable ideas from my college for the Smart India Hackathon (SIH) organized by the Government of India. I also cleared the second round of the MSME Hackathon, and the results are awaited.
+
+Coming to my projects:
+
+Under the guidance of a Swecha mentor, I implemented a Retrieval-Augmented Generation (RAG) chatbot and application using a Hugging Face pretrained AI model. This allows users to upload documents and then query the chatbot, which provides context-aware, accurate answers.
+
+Another project is Plant Disease Detection (Hack AI Project), where farmers can upload a leaf image, and the system detects the disease and recommends suitable fertilizers, helping improve crop health and yield.
+
+Apart from academics, I am also a Mandala artist, enjoy pencil sketching and drawing, and I am a beginner in classical dance.
